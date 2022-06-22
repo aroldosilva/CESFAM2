@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #000000;
+    color: #fff;
+    font-family: fantasy;
+}
+
+a {
+    font-size: 2rem;
+    color: #008000;
+}

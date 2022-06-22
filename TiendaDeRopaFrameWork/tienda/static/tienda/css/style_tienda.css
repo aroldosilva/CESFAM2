@@ -1,0 +1,84 @@
+.translated-ltr {
+    margin-top: -40px;
+}
+
+.translated-ltr {
+    margin-top: -40px;
+}
+
+.goog-te-banner-frame {
+    display: none;
+    margin-top: -20px;
+}
+
+.goog-logo-link {
+    display: none !important;
+}
+
+.goog-te-gadget {
+    color: transparent !important;
+}
+
+.cubo {
+    background-color: #ffffff;
+    border: #000000;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 3px;
+    margin-bottom: 1em;
+}
+
+.header {
+    height: 74%;
+    background-color: #ffffff;
+    text-align: center;
+}
+
+.separador {
+    height: 10vh;
+    background-color: #000;
+    margin-top: 3em;
+}
+
+.labels {
+    height: 12vh;
+}
+
+.compras {
+    height: 130vh;
+    padding: 3em 4em 0 4em;
+}
+
+.carro {
+    height: 99.6vh;
+}
+
+.labels {
+    margin-left: 1em;
+}
+
+.datos {
+    height: 49vh;
+}
+
+.direccion {
+    height: 26vh;
+}
+
+.totalpago {
+    height: 20vh;
+}
+
+.footer {
+    height: 40vh;
+}
+
+.botones {
+    height: 20vh;
+    text-align: right;
+}
+
+.pie {
+    height: 20vh;
+    background-color: #000000;
+}

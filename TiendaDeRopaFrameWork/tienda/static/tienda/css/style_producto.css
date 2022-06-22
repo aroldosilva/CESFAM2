@@ -1,0 +1,89 @@
+.translated-ltr {
+    margin-top: -40px;
+}
+
+.translated-ltr {
+    margin-top: -40px;
+}
+
+.goog-te-banner-frame {
+    display: none;
+    margin-top: -20px;
+}
+
+.goog-logo-link {
+    display: none !important;
+}
+
+.goog-te-gadget {
+    color: transparent !important;
+}
+
+.cuerpo {
+    margin-top: 0.5em;
+}
+
+.principal {
+    height: 100vh;
+}
+
+.header {
+    height: 74%;
+    background-color: #ffffff;
+    text-align: center;
+}
+
+.separador {
+    height: 10vh;
+    background-color: #000;
+    margin-top: 3em;
+}
+
+.nav {
+    height: 10vh;
+    background-color: #ffffff;
+}
+
+.medidas {
+    height: 75vh;
+}
+
+.imagen {
+    height: 70vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.descripcion {
+    background-color: #ffffff;
+    height: 70vh;
+    border: rgb(128, 128, 128, 0.87);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 2px;
+    -webkit-box-shadow: 5px 1px 19px -1px rgba(172, 172, 172, 0.87);
+    box-shadow: 5px 1px 19px -1px rgba(172, 172, 172, 0.87);
+}
+
+
+/* pie de pagina */
+
+.pie {
+    height: 30vh;
+    width: auto;
+    background-color: #000;
+    margin-top: 5em;
+}
+
+.contactos {
+    text-align: right;
+}
+
+.botonContacto {
+    height: 0px;
+    width: 50px;
+    margin-top: 2em;
+    border: 0px;
+    background-color: #000000;
+    color: #ffffff;
+}
